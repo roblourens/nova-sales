@@ -280,7 +280,7 @@ function renderCart() {
     <section class="cart" aria-label="Your tickets">
       <div class="cart-head"><span class="pixel cart-title">YOUR TICKETS</span></div>
       <div class="cart-items">
-        ${empty ? '<p class="cart-empty">Tap a seat on the map. Mona is watching.</p>' : ''}
+        ${empty ? '<p class="cart-empty">Choose an open seat. Mona saved you a spot.</p>' : ''}
         ${picked
           .map(
             (s) => `

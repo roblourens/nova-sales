@@ -6,7 +6,7 @@ A pixel-art concert ticket-booking app with simulated payments. It uses Vite and
 
 - Pick seats from a color-coded arena map: Floor ($185), Lower Bowl ($120), or Upper Bowl ($65). Sold seats cannot be selected.
 - Enter through a closed pixel-art theater curtain, reveal the tour teaser and reservation ticket, then proceed into seat selection. The intro includes reversible curtains, cursor-reactive spotlights, pixel dust, and optional synthesized 8-bit sound.
-- Add or remove seats and see the ticket count, subtotal, 12% service fee, and total update immediately.
+- Choose any open seat, then add or remove tickets and see the count, subtotal, 12% service fee, and total update immediately.
 - Complete a simulated checkout to get a ticket-style confirmation with an order ID and purchased seats.
 - Book on desktop or mobile, with a sticky mobile checkout bar and a horizontally scrollable seat map.
 
